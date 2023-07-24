@@ -1,0 +1,6 @@
+langchain
+PyPDF2
+openai
+tiktoken
+chromadb==0.4.0
+unstructured
